@@ -1,1 +1,5 @@
-python -m SimpleHTTPServer 8000
+Set up and running:
+
+1) npm install
+
+2) python -m SimpleHTTPServer 8000
